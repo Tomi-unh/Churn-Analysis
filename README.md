@@ -1,5 +1,5 @@
 # Churn Analysis
  
-#Introduction.
+# Introduction.
 
-This repository contains end to end churn analysis using SQL for preprocessing the data and building an extensive and comprehnesive dashboard in PowerBI. The final part of the project was to forecast churn rate of new customers using a random forest model.  
+This project demonstrates a comprehensive analysis of customer churn using machine learning techniques. The primary objectives were to identify factors influencing churn, build predictive models, and derive actionable insights. Key steps included data preprocessing, feature engineering, model selection, and evaluation. The project also emphasizes the importance of clear data visualization to communicate findings effectively. Tools and technologies used include Python, pandas, scikit-learn, and various visualization libraries.
